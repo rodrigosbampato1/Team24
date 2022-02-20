@@ -1,0 +1,13 @@
+.danger {
+  background-color: #ea1d2c;
+  border: 0;
+  color: #fff;
+}
+
+.p-inputtext:hover {
+  border-color: #ea1d2c;
+}
+
+h1{
+  color: #a6a29f;
+}
