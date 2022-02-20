@@ -5,12 +5,13 @@ import "primereact/resources/primereact.min.css";
 import "primeicons/primeicons.css";
 import ListRecipes from './components/ListRecipes/ListRecipes';
 import Landing from './components/Landing/Landing';
+import ComprarIngredientes from './components/ComprarIngredientes/ComprarIngredientes';
 
 function App() {
   return (
     <div className="App">
       {/* <Landing></Landing> */}
-      <ListRecipes></ListRecipes>
+      <ComprarIngredientes></ComprarIngredientes>
     </div>
   );
 }
