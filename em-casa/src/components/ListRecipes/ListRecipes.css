@@ -1,8 +1,15 @@
 .botao{
- background-color: #9C050B;
+    background-color: #9C050B;
 }
 .p-button-secondary-ml-2{
     background-color: #9C050B;
 }
 
+img {
+    width: 250px;
+}
 
+.cards-grid {
+    display: grid;
+    
+}
