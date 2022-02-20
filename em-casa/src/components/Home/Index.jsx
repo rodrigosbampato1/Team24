@@ -76,7 +76,7 @@ export default function Home (props){
                 
                <div className='flex-direction-row'>
                     <div>
-                        <h5>Tiozinho Pensativo</h5>
+                        <h5>Macarrão de Domingo</h5>
                         <Image src={Image1} alt="Image" width="250" preview />
                     </div>
 
