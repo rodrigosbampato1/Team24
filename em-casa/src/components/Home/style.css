@@ -1,0 +1,17 @@
+
+.comeco {
+    font-size: 12px;
+    text-align: left;
+}
+
+.p-menuitem-text :active{
+    color: #EA1D2C;
+}
+
+.p-menuitem-text {
+    font-size: 12px;
+}
+
+.menu2 {
+   margin: 2px 0px 2px 0px;
+}
